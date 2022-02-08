@@ -4,10 +4,10 @@
 
 Hi, I'm Ahmet Talha KOYLU. 
 
-I'm interested in internet programming. Nowadays, I am working on C# & .Net Core and Angular. To learn more about me:
+I'm interested in internet programming. Nowadays, I am working on JavaScript (React, React Native, NextJs, NestJs). To learn more about me:
 
-- 🔭 I’m currently working on <a href="https://github.com/talhakoylu/ReCapProject">ReCap Back-end</a> & <a href="https://github.com/talhakoylu/ReCapFrontEnd">ReCap Front-end</a>
-- 🌱 I’m currently learning C# & .Net Core and Angular - Javascript
+- 🔭 I’m currently working on a project about Live Quiz System to graduate
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: 
 
     <a href="https://twitter.com/talhakoylu"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://linkedin.com/in/talhakoylu"><img src="https://img.shields.io/badge/linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
