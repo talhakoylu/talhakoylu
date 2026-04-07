@@ -14,7 +14,7 @@ Currently;
 
 - 📫 How to reach me: 
 
-    <a href="https://twitter.com/talhakoylu"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://linkedin.com/in/talhakoylu"><img src="https://img.shields.io/badge/linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://linkedin.com/in/talhakoylu"><img src="https://img.shields.io/badge/linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:ahmettalha.koylu@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## :hammer_and_wrench:	 Technologies & Tools 
